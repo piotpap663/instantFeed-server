@@ -1,4 +1,4 @@
-##to start using server you have to start mongodb at first
+to start using server you have to start mongodb at first
 
 Run `mongod --dbpath ~/data/db`
 
